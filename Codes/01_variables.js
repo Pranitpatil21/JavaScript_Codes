@@ -1,7 +1,7 @@
 const accountID = 14343
 let accountemail = "pranit@gmail.com"
 var accountpassword = "pranit@123"
-
+ 
 //we can also declare this way but its BAD Way 
 accountcity = "Pune"
 //Semicolons are not necessary but its good to give 
@@ -34,4 +34,5 @@ console.log(email);
 
 /* Prefer not to use var 
 because of issue in block scope and functional Scope
+
  */
