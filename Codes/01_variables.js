@@ -36,3 +36,4 @@ console.log(email);
 because of issue in block scope and functional Scope
 
  */
+
