@@ -8,7 +8,7 @@ console.log(2 != 1);
 //it will convert string to a number [ > , < ,  >=  , <=  ], this operators works differently
 console.log("2" > 1);
 console.log("02" > 1);
-
+ 
 
 console.log(null > 0);
 console.log(null == 0);
@@ -42,3 +42,4 @@ console.log("2" === 2);       //false
 
 // ==  this covert string to int 
 console.log("2" == 2);       //true
+
