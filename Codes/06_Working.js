@@ -27,3 +27,4 @@ let obj2 = obj1;
 obj2.Name = "Sahil";
 console.log(obj2.Name);
 console.log(obj1.Name);
+
